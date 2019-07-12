@@ -1,0 +1,24 @@
+.Nav {
+        box-shadow: none!important;
+        background-image: linear-gradient(to right, rgb(160, 151, 250), rgb(73, 71, 222), rgb(76, 111, 248), rgb(139, 178, 252))
+}
+nav {
+        margin-bottom: 20px;
+}
+
+#navTitle {
+        font-family: 'IBM Plex Sans', sans-serif;
+        font-style: italic;
+        font-size: 36px;
+        
+}
+
+.dropdown-content li>a, .dropdown-content li>span {
+        color: black!important;
+        margin-right: 10px;
+}
+
+.dropdown-content:hover li>a:hover, .dropdown-content:hover li>span:hover {
+        background-color: white!important;
+        color: rgb(0, 145, 255)!important;
+}

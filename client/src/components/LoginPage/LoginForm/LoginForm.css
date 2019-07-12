@@ -1,0 +1,27 @@
+#flatBtn {
+    color: rgb(73, 71, 222);
+}
+
+#flatBtn:hover {
+    background: rgb(202, 215, 255);
+}
+
+#LoginBtn {
+    margin: 10px;
+    background:rgb(73, 71, 222);
+}
+
+#LoginBtn:hover {
+    background: rgb(202, 215, 255);
+}
+
+#ForgotPassword:hover {
+    text-decoration: underline;
+}
+
+#CreateAccount:hover {
+    text-decoration: underline;
+}
+.loginHeader {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
